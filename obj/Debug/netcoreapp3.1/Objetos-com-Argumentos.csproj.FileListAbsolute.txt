@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\bin\Debug\netcoreapp3.1\Objetos-com-Argumentos.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\bin\Debug\netcoreapp3.1\Objetos-com-Argumentos.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\bin\Debug\netcoreapp3.1\Objetos-com-Argumentos.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\bin\Debug\netcoreapp3.1\Objetos-com-Argumentos.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\bin\Debug\netcoreapp3.1\Objetos-com-Argumentos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\bin\Debug\netcoreapp3.1\Objetos-com-Argumentos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\obj\Debug\netcoreapp3.1\Objetos-com-Argumentos.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\obj\Debug\netcoreapp3.1\Objetos-com-Argumentos.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\obj\Debug\netcoreapp3.1\Objetos-com-Argumentos.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\obj\Debug\netcoreapp3.1\Objetos-com-Argumentos.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\obj\Debug\netcoreapp3.1\Objetos-com-Argumentos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\obj\Debug\netcoreapp3.1\Objetos-com-Argumentos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Objetos-com-Argumentos\obj\Debug\netcoreapp3.1\Objetos-com-Argumentos.genruntimeconfig.cache
