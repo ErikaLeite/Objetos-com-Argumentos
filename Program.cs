@@ -22,6 +22,9 @@ namespace Objetos_com_Argumentos
 
             carrinho.ExibirCarrinho();
 
+            carrinho.Remover(i4);
+
+            carrinho.ExibirCarrinho();// ao exibir novamente o carrinho o cálculo fica divergente (perguntar ao professor o que pode ser)
             
             
         }
