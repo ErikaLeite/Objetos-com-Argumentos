@@ -20,13 +20,16 @@ namespace Objetos_com_Argumentos
             carrinho.Adicionar(i5);
             carrinho.Adicionar(i4);
 
+           // carrinho.ExibirCarrinho();
+
+            
+            Produto produtoTeste = new Produto();
+            produtoTeste.Nome = "Gorro Vermelho";
+            produtoTeste.Preco = 25.90f;
+
+            carrinho.Alterar(1004, produtoTeste);
+
             carrinho.ExibirCarrinho();
-
-            carrinho.Remover(i4);
-
-            carrinho.ExibirCarrinho();// ao exibir novamente o carrinho o cálculo fica divergente (perguntar ao professor o que pode ser)
-            
-            
         }
     }
 }
